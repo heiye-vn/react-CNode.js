@@ -12,7 +12,7 @@
 
 
 
-###项目下载
+### 项目下载
 
 ```
   git clone https://github.com/lzxb/react-cnode.git
@@ -23,7 +23,7 @@
 
 
 
-###项目运行
+### 项目运行
 
 ```
   npm run dev (开发版本访问：http://localhost:3000/)
