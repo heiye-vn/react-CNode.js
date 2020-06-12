@@ -8,7 +8,7 @@
 
 ### 预览
 
-该项目为react-cli搭建的：[在线访问](http://cnode.zsp.design);
+该项目为react-cli搭建的：[在线预览](http://www.zsp.gold/cnode);
 
 
 
